@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @BasicPixel
+- 👋 Hi, I’m @BasicPixel, self-taught developer
 - 🌱 I’m currently taking CS50 Web
-- 💻 I'm interested in Python programming
+- 💻 I'm interested in Python and web programming
+- 🌐 I'm currently learning Django
 
-<!---
-BasicPixel/BasicPixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasicPixel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![BasicPixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasicPixel&show_icons=true&theme=dark)
+
+
+_here is a random joke for you_
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
