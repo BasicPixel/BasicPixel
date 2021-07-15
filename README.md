@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BasicPixel, self-taught developer
-- 🌱 I’m currently taking CS50 Web
+- 👋 Hi, I’m @BasicPixel, self-taught web developer
+- 🌱 I’m currently taking [CS50 Web](https://cs50.harvard.edu/web/2020/)
 - 💻 I'm interested in Python and web programming
 - 🌐 I'm currently learning Django and React
 
