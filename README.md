@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BasicPixel, self-taught web developer
-- 🌱 I’m currently taking [CS50 Web](https://cs50.harvard.edu/web/2020/)
-- 💻 I'm interested in Python and web programming
-- 🌐 I'm currently learning Django and React
+- 👋 Hi, I’m @BasicPixel, 16-year-old self-taught developer
+- 🌱 I’m currently learning on freeCodeCamp
+- 💻 I'm interested in Python and web technologies 
+- 🌐 Currently learning web development, mostly React
 
 ---
 
