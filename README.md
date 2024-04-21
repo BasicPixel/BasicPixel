@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BasicPixel, 16-year-old self-taught developer
-- 🌱 Active Learner
-- 💻 I'm interested in Python and web technologies
-- 🌐 Currently learning web development (React, Next.js, Tailwind CSS, Django)
+- 👋 Hi, I’m @BasicPixel, 18-year-old self-taught developer
+- 🌱 Active Learner (not anymore)
+- 💻 Interested in Python and web technologies
+- 🌐 Currently learning web development (React, Next.js, Tailwind CSS, Django) - not anymore
 
 ---
 
